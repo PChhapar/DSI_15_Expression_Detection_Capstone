@@ -1,4 +1,4 @@
-##   Facial Expression Recognition Using CNN
+##   Facial Expression Recognition Using Transfer Learning
 ## Problem Statement
 
 One of the important ways humans display emotions is through facial expressions which are a very important part of communication. Though nothing is said verbally, there is much to be understood about the messages we send and receive through the use of nonverbal communication. Facial expressions convey non verbal cues, and they play an important role in interpersonal relations
